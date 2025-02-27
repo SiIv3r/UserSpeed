@@ -6,7 +6,7 @@ UserSpeed is a tool that allows users to search for online profiles across multi
 ![UserSpeed Tool](imagetool.png)
 ## Bitcoin Donations
 
-If you find DodoScan useful and would like to support its development, you can donate via Bitcoin:
+If you find UserSpeed useful and would like to support its development, you can donate via Bitcoin:
 
 **BTC Address**: `bc1qje465lpcs06ccmywj4fer76zhpz8rgav905jsg`
 
